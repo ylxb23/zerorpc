@@ -1,4 +1,4 @@
-.PHONY: build clean fmt vet test bench cover runRpc runWeb benchInfoRandom benchInfoFix benchLogin
+.PHONY: build clean fmt vet test bench cover 
 
 ARGS=
 COVERPROFILE=coverage.txt
