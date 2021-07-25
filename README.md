@@ -1,7 +1,6 @@
 # zerorpc 
 
-[![Build Status](https://travis-ci.com/ylxb23/zerorpc.svg?branch=main)(https://travis-ci.com/github/ylxb23/zerorpc)
-[![codecov](https://codecov.io/gh/ylxb23/zerorpc/branch/main/graph/badge.svg)](https://codecov.io/gh/ylxb23/zerorpc)
+![Build Status](https://travis-ci.com/ylxb23/zerorpc.svg?branch=main "https://travis-ci.com/github/ylxb23/zerorpc")
 ![GoReport](https://goreportcard.com/badge/github.com/ylxb23/zerorpc)
 
 
