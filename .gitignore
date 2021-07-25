@@ -6,10 +6,23 @@
 *.dylib
 
 # Test binary, built with `go test -c`
+*.lock
+*.tmp
+.DS_Store
+*.swp
+*.log
+*.out
+coverage.txt
+bin/
 *.test
 
-# Output of the go coverage tool, specifically when used with LiteIDE
-*.out
+htmls/profile/
+
+# goland
+*.yml
+.idea/
 
 # Dependency directories (remove the comment below to include it)
-# vendor/
+*.a
+src/
+vendor/
