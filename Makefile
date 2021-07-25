@@ -1,4 +1,4 @@
-.PHONY: build clean fmt vet test bench cover 
+.PHONY: build clean fmt vet test bench cover
 
 ARGS=
 COVERPROFILE=coverage.txt
